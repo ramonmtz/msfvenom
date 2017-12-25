@@ -1,1 +1,1 @@
-Aplicacion en paitos que suma dos numeros
+Aplicacion en python que suma dos numeros

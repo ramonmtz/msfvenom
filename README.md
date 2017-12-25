@@ -1,1 +1,1 @@
-Este no es ningun programa, es solo para obtener informacion de como crear un repositorio
+Aplicacion en paitos que suma dos numeros
